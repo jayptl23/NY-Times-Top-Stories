@@ -1,0 +1,23 @@
+.article {
+    margin: 10px;
+    padding: 10px;
+    border: solid black 1px;
+}
+
+#articleHeader {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+#articleHeader a{
+    text-decoration: none;
+    color: black;
+}
+
+#articleHeader a:hover{
+    color: coral;
+}
+
+#articleHeader h2 {
+    margin-bottom: 15px;
+}
