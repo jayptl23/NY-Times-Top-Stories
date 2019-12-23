@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup
+1. Head to the [NY Times Dev Portal](https://developer.nytimes.com/get-started) and create an account.
+2. Once logged in select Apps from the user-drop down.
+3. Click **+ New App** to make a new app.
+4. Enter a name and description for the app.
+5. Under the APIs section turn on the **Top Stories API**.
+6. Create the app.
+7. Click on the newly created app and copy the API key to clipboard.
+8. In the `.env_sample` file replace `YOUR_API_KEY_HERE` with your API key.
+9. Rename the `.env_sample` file to `.env`.
+10. Start the app with the `npm start` command.
+
 ## Available Scripts
 
 In the project directory, you can run:
