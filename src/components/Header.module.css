@@ -1,24 +1,29 @@
 header {
-    background: #c2dde6;
-    min-height: 50px;
+  background: #c2dde6;
+  min-height: 50px;
 }
 
-nav ul{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    list-style: none;
-    padding-top: 15px;
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  padding-top: 15px;
 }
 
-nav ul a{
-    background: coral;
-    color: white;
-    text-decoration: none;
-    padding: 5px;
+nav ul a {
+  background: coral;
+  color: white;
+  text-decoration: none;
+  padding: 5px;
 }
 
-nav ul a:hover{
-    background: white;
-    color: coral;
+nav ul a:hover {
+  background: white;
+  color: coral;
+}
+
+.focus {
+  background: white;
+  color: coral;
 }
