@@ -4,10 +4,8 @@
 
 This is a frontend application built with React. It uses the New York Times Top Stories API to display the top five articles for various sections.
 
-<!--
 ![gif](./images/demo.gif)
 ![main](./images/main.png)
--->
 
 # Quick Start 🚀
 
