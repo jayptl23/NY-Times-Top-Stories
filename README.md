@@ -7,6 +7,8 @@ This is a frontend application built with React. It uses the New York Times Top 
 ![gif](./images/demo.gif)
 ![main](./images/main.png)
 
+---
+
 # Quick Start 🚀
 
 Create an account at the [NY Times Dev Portal](https://developer.nytimes.com/get-started) and make a new app. Under the _APIs section_ select the **Top Stories API**.
